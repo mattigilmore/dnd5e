@@ -1,0 +1,22 @@
+git clone 
+
+put  repo  after git  clone link https://github.com/geekcomputers/Python
+thats some  one else repo
+it downloads the repo in what ever folder your in
+
+
+get status
+
+check if  there is changes from what you have and what what repo has
+
+git add 
+
+git add followed by file your   trying to  upload to  github
+it will not add it yet you most  commit it   commit and  push  it you need to add it
+
+git commit -m "add comment  on what you  changed/ add"
+
+git push
+ push  uploads it
+
+
